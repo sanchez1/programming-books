@@ -1,7 +1,3 @@
-
-[![Twitter][twitter_badge]][twitter_link]
-
-
 # Programming Books
 
 **永久免费分享，禁止吃相难看。欢迎`Pull request`。**
@@ -38,5 +34,5 @@
 - [Your git lfs repo's link]
 
 
-[twitter_badge]: https://img.shields.io/twitter/url/https/github.com/mrdulin/programming-books.svg?style=social
-[twitter_link]: https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fmrdulin%2Fprogramming-books
+
+
