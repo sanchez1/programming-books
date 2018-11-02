@@ -4,6 +4,16 @@
 
 **Free forever. NO BUSINESS USE! Welcome to PR.**
 
+## Advantage
+
+- 无打赏二维码
+- 无广告
+- 无需关注公众号获取网盘密码
+- 无死链，坏链
+- 下载无限制，无需等待时间，不限速，不限单位时间内同一IP的下载次数
+- 稳定，依托`github`和`AWS S3`存储
+- 安全，从此远离不安全站点
+- 使用`github`进行云同步
 
 ## Git LFS Book Repos
 
