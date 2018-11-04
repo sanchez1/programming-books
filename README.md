@@ -1,10 +1,5 @@
 # Programming Books
 
-<<<<<<< HEAD
-## Git LFS Book Repos
-
-- https://github.com/MrAlex6204/Books
-=======
 **永久免费分享，禁止吃相难看。欢迎`Pull request`。**
 
 **Free forever. NO BUSINESS USE! Welcome to PR.**
@@ -38,7 +33,3 @@
 - https://github.com/MrAlex6204/Books
 - [Your git lfs repo's link]
 
-
-
-
->>>>>>> 38967effb239f4f5660fd783349798063ca110f6
