@@ -4,6 +4,8 @@
 
 **Free forever. NO BUSINESS USE! Welcome to PR.**
 
+**注意**: 建议`fork`或者`clone`到本地，不定期更新。
+
 ## Advantage
 
 - 无打赏二维码
